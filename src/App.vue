@@ -7,7 +7,7 @@ import HomeView from "./views/HomeView.vue";
   <Menu />
   <HomeView />
 
-  <h2>dylan es un hpta cacorro</h2>
+  <h2 class="text-3xl">dylan es un hpta cacorro</h2>
 </template>
 
 <style scoped></style>
