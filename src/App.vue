@@ -1,13 +1,13 @@
 <script setup>
 import Menu from "./components/Menu.vue";
 import HomeView from "./views/HomeView.vue";
+import Biografia from "./components/Biografia.vue";
 </script>
 
 <template>
   <Menu />
   <HomeView />
-
-  <h2 class="text-3xl">dylan es un hpta cacorro</h2>
+  <Biografia />
 </template>
 
 <style scoped></style>
