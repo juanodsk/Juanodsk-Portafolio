@@ -10,4 +10,8 @@ import Biografia from "./components/Biografia.vue";
   <Biografia />
 </template>
 
-<style scoped></style>
+<style>
+* {
+  background-color: #02152b;
+}
+</style>
